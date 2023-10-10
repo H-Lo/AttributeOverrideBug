@@ -10,7 +10,7 @@ When `Hibernate ORM 6.2.7.Final` is used,
 once the unit test finishes the table `manufacturer` will be created having 2 columns:
 
 * `name`         VARCHAR(255)
-* `social_media` TEXT           --as a result of well working `@AttributeOverride` annotation
+* `social_media` TEXT           -- as a result of well working `@AttributeOverride` annotation
 
 
 # What happens when Hibernate ORM is upgraded
