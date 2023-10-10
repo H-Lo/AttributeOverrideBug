@@ -1,6 +1,6 @@
 # How to run
 
-Create database `bugs` in MySQL with cretentials: username `root`; password `root`
+Create database `bugs` in MySQL with credentials: username `root`; password `root`
 or update `persistence.xml` and `hibernate.properties`
 
 
