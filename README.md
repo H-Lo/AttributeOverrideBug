@@ -4,7 +4,7 @@ Create database `bugs` in MySQL with credentials: username `root`; password `roo
 or update `persistence.xml` and `hibernate.properties`
 
 
-# What is desired result
+# Desired result
 
 When `Hibernate ORM 6.2.7.Final` is used,
 once the unit test finishes the table `manufacturer` will be created having 2 columns:
